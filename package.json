@@ -2,7 +2,7 @@
   "name": "cubex_router",
   "version": "0.3.3",
   "description": "A simple hash routing utility",
-  "repository": "https://github.com/zill4/cubex_router.git",
+  "repository": "https://github.com/Cubex-LLC/cubex_router.git",
   "license": "MIT",
   "author": "Sean Johnson <sjohnson@sjohnsonaz.com>",
   "main": "dist/scripts/router.js",
